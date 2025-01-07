@@ -1,6 +1,6 @@
 ## JavaScript
 
-- Language
+- Language h
   - `Object`
   - `Function`
   - `Boolean`
@@ -17,32 +17,32 @@
   - `...spread`
   - `...rest`
   - `typeof`
-  - Destructuring
-  - Generators
-  - Iterators
-  - Async generator
-  - Async iterator
-  - Chaining
-  - Optional chaining
-  - IIFE
-  - Async IIFE
+  - Destructuring h
+  - Generators h
+  - Iterators h
+  - Async generator h
+  - Async iterator h
+  - Chaining h
+  - Optional chaining h
+  - IIFE h
+  - Async IIFE h
   - `global`
   - `globalThis`
   - `window`
-  - Getters and setters
+  - Getters and setters h
   - `__proto__`
   - `prototype`
-  - Equality operators
-  - Logical operators
-  - Logical Assignment
-  - Bitwise operators
-  - Ternary operator
+  - Equality operators h
+  - Logical operators h
+  - Logical Assignment h
+  - Bitwise operators h
+  - Ternary operator h
   - `void`
   - `yield`
   - `await`
-  - Template literal
-  - Strict mode
-  - Hoisting
+  - Template literal h
+  - Strict mode h
+  - Hoisting h
   - `delete`
   - `in`
   - `super`
@@ -50,15 +50,15 @@
   - `static`
   - `Number.parseInt`
   - `Number.parseFloat`
-  - Property descriptors
-  - Sealing properties
-  - Freezing properties
-  - Computed properties
-  - Instance class fields
-  - Static class fields
-  - Private class fields
-  - Private class methods
-- Statements
+  - Property descriptors h
+  - Sealing properties h
+  - Freezing properties h
+  - Computed properties h
+  - Instance class fields h
+  - Static class fields h
+  - Private class fields h
+  - Private class methods h
+- Statements h
   - `if`
   - `while`
   - `do..while`
@@ -78,27 +78,27 @@
   - `extends`
   - `with`
   - `new`
-- Functions
-  - Arrow function
-  - Async function
-  - Function declaration
-  - Function expression
-  - Default parameters
-  - Functional object
+- Functions h
+  - Arrow function h
+  - Async function h
+  - Function declaration h
+  - Function expression h
+  - Default parameters h
+  - Functional object h
   - `Function.prototype.call`
   - `Function.prototype.bind`
   - `Function.prototype.apply`
   - `return`
-- Data structures
+- Data structures h
   - `Array`
   - `Map`
   - `Set`
   - `WeakMap`
   - `WeakSet`
-  - Typed arrays
-  - Mixins
+  - Typed arrays h
+  - Mixins h
   - `Object.assign`
-- Standard classes and namespaces
+- Standard classes and namespaces h
   - `Proxy`
   - `RegExp`
   - `Date`
@@ -113,10 +113,10 @@
   - `Promise`
   - `console`
   - Timers
-- Infrastructure
-  - V8
-  - Node.js
-  - npm
-  - prettier
-  - MDN
-  - TC39
+- Infrastructure h
+  - V8 h
+  - Node.js h
+  - npm h
+  - prettier h
+  - MDN h
+  - TC39 h
